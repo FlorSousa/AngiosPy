@@ -1,0 +1,6 @@
+Cerrado#Malvaceae,Apocynaceae,Arecaceae,Asteraceae,Acanthaceae,Amaranthaceae,Annonaceae,Brassicaceae,Clusiaceae,Clusiaceae,Combretaceae,Cucurbitaceae,Euphorbiaceae,Fabaceae,Malvaceae,Nyctaginaceae,Rosaceae,Rubiaceae,Solanaceae
+Pantanal#Apocynaceae,Malvaceae,Amaranthaceae,Clusiaceae
+Mata Atlântica#Malvaceae,Arecaceae,Begoniaceae,Cactaceae,Clusiaceae,Cucurbitaceae,Malvaceae,Solanaceae
+Caatinga#Malvaceae,Asteraceae,Acanthaceae,Brassicaceae,Cactaceae,Caryophyllaceae,Clusiaceae,Clusiaceae,Combretaceae,Euphorbiaceae,Nyctaginaceae,Solanaceae
+Pampa#Malvaceae,Arecaceae,Asteraceae,Caryophyllaceae,Clusiaceae,Fabaceae,Malvaceae,Rosaceae
+Amazônia#Annonaceae,Clusiaceae,Nyctaginaceae,Arecaceae
